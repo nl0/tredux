@@ -1,0 +1,27 @@
+{
+  "name": "tredux",
+  "version": "0.0.0",
+  "description": "typed frp implementation of redux",
+  "main": "redux.coffee",
+  "scripts": {},
+  "keywords": [
+    "redux",
+    "frp",
+    "type",
+    "tcomb",
+    "kefir"
+  ],
+  "author": "nl_0 <nl.imbecile@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nl0/tredux/issues"
+  },
+  "homepage": "https://github.com/nl0/tredux#readme",
+  "dependencies": {
+    "kefir": "^3.2.3",
+    "ramda": "^0.21.0",
+    "tcomb": "^3.1.0",
+    "tcomb-kefir": "nl0/tcomb-kefir#0.0.0"
+  },
+  "devDependencies": {}
+}
